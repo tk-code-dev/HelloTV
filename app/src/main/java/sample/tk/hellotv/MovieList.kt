@@ -2,12 +2,12 @@ package sample.tk.hellotv
 
 object MovieList {
     val MOVIE_CATEGORY = arrayOf(
-        "Category Zero",
-        "Category One",
-        "Category Two",
-        "Category Three",
-        "Category Four",
-        "Category Five"
+        "Category 0",
+        "Category 1",
+        "Category 2",
+        "Category 3",
+        "Category 4",
+        "Category 5"
     )
 
     val list: List<Movie> by lazy {
