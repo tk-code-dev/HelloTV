@@ -29,6 +29,6 @@ class ErrorFragment : ErrorSupportFragment() {
     }
 
     companion object {
-        private val TRANSLUCENT = true
+        private const val TRANSLUCENT = true
     }
 }
